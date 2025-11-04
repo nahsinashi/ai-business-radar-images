@@ -1,1 +1,1 @@
-# ai-business-rader-images
+# ai-business-radar-images
